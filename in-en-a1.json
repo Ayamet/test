@@ -1,20 +1,23 @@
-{
-  "a1": [
-    {
-      "title": "Greetings",
-      "subtopics": [
-        {
-          "title": "Hello and Goodbye",
-          "text": "<p>Learn how to say hello and goodbye in Turkish.</p>",
-          "image": "https://ih1.redbubble.net/image.4430665649.5073/raf,360x360,075,t,fafafa:ca443f4786.jpg"
-        },
-        {
-          "title": "Introducing Yourself",
-          "text": "<p>Practice introducing yourself with simple sentences.</p>",
-          "html": "<table><tr><td>Merhaba</td><td><marquee>Hello</marquee></td></tr></table>"
-        }
-      ]
-    }
-  ],
-  "a2": []
-}
+const A1_TOPICS = [
+  {
+    title: "1. Alphabet & Basic Pronunciation Rules",
+    subs: [
+      {title:"Indonesian alphabet (26 letters, Latin system)", content:`<p>The Indonesian alphabet uses 26 letters from A-Z, based on the Latin system.</p>`},
+      {title:"Vowel sounds", content:`<p>Five vowels (a, e, i, o, u) with consistent pronunciation.</p>`},
+      {title:"Consonants and special sounds", content:`<p>Consonants mostly like English. 'c' = ch, 'g' is always hard.</p>`},
+      {title:"Vowel combinations (ai, au, oi)", content:`<marquee><p>Common combinations: ai=/ai/, au=/au/, oi=/oi/.</p></marquee>`},
+      {title:"Syllable division & stress rules", content:`<p>Stress usually on penultimate syllable. Example: <strong>ma-kan</strong>.</p>`}
+    ]
+  },
+  {
+    title: "2. Greetings & Introductions",
+    subs: [
+      {title:"Formal greetings (Selamat pagi, siang, sore, malam)", content:`<p>Use Selamat pagi/siang/sore/malam according to time.</p>`},
+      {title:"Informal greetings (Halo, Hai, Apa kabar?)", content:`<p>Casual greetings like Halo, Hai, Apa kabar?</p>`},
+      {title:"Introducing yourself (nama saya ...)", content:`<p>Say "Nama saya [name]" to introduce yourself.</p>`},
+      {title:"Asking someone’s name (Siapa nama Anda?)", content:`<p>Ask politely: "Siapa nama Anda?"</p>`},
+      {title:"Farewells (sampai jumpa, dadah)", content:`<p>Common farewells: "Sampai jumpa" (See you), "Dadah" (Bye).</p>`}
+    ]
+  }
+  // add more topics here...
+];
