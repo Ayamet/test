@@ -11,7 +11,7 @@
         {
           "title": "Introducing Yourself",
           "text": "<p>Practice introducing yourself with simple sentences.</p>",
-          "html": "<table><tr><td>Merhaba</td><marquee><td>Hello</td><marquee></tr></table>"
+          "html": "<table><tr><td>Merhaba</td><td><marquee>Hello</marquee></td></tr></table>"
         }
       ]
     }
