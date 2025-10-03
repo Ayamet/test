@@ -1,51 +1,501 @@
 [
   {
-    "title": "1. Alphabet & Basic Pronunciation Rules",
+    "title": "Alphabet & Basic Pronunciation Rules",
     "subs": [
       {
-        "title": "Indonesian alphabet (26 letters, Latin system)",
-      "content": "<p>The Indonesian alphabet uses 26 letters from A-Z, based on the Latin system.</p><iframe width='560' height='315' src='https://www.youtube.com/embed?listType=search&list=random' title='Random YouTube Video' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"
-    },
-      {
-        "title": "Vowel sounds",
-        "content": "<p>Five vowels (a, e, i, o, u) with consistent pronunciation.</p><marquee>aint that work</marquee>"
+        "title": "The Indonesian Alphabet",
+        "content": "Indonesian uses the same 26-letter Latin alphabet as English, making it easier for English speakers. However, pronunciation differs significantly. The alphabet is: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z. Most letters are pronounced consistently, unlike English. Example: 'A' is always pronounced 'ah' as in 'father', never as in 'cake'. Cultural note: Indonesian doesn't use complex characters like Chinese or Arabic, which makes it more accessible for beginners."
       },
       {
-        "title": "Consonants and special sounds",
-        "content": "<p>Consonants mostly like English. 'c' = ch, 'g' is always hard.</p>"
+        "title": "Vowel Sounds",
+        "content": "Indonesian has 5 main vowels with consistent pronunciation: A = 'ah' (like 'father'), E = has two sounds - sometimes 'eh' (like 'bed') and sometimes 'uh' (like 'the'), I = 'ee' (like 'see'), O = 'oh' (like 'go'), U = 'oo' (like 'too'). Examples: 'apa' (what) = ah-pah, 'enak' (delicious) = uh-nak, 'itu' (that) = ee-too. Pronunciation tip: The letter E is the most challenging as it can sound like 'eh' or 'uh' depending on the word."
       },
       {
-        "title": "Vowel combinations (ai, au, oi)",
-        "content": "<p>Common combinations: ai=/ai/, au=/au/, oi=/oi/.</p>"
+        "title": "Consonants and Special Sounds",
+        "content": "Most consonants sound similar to English, but watch for: C = always 'ch' (like 'chair'), G = always hard 'g' (like 'go'), never soft like 'giraffe', R = rolled/trilled like Spanish, KH = guttural sound from throat (like 'Bach' in German). Examples: 'cari' (look for) = chah-ree, 'gula' (sugar) = goo-lah, 'roti' (bread) = roh-tee (rolled R), 'khas' (typical) = khas. Practice: Try saying 'cepat' (fast) = cheh-pat, 'gigi' (teeth) = gee-gee."
       },
       {
-        "title": "Syllable division & stress rules",
-        "content": "<p>Stress usually on penultimate syllable. Example: <strong>ma-kan</strong>.</p>"
+        "title": "Diphthongs (ai, au, oi)",
+        "content": "Diphthongs are vowel combinations that create a single sound: AI = sounds like 'eye' or 'aye', AU = sounds like 'ow' (as in 'cow'), OI = sounds like 'oy' (as in 'boy'). Examples: 'sungai' (river) = soong-eye, 'pulau' (island) = poo-low, 'sepoi' (breeze) = suh-poy. Important: These combinations are always pronounced as single sounds, not as separate vowels. Mini exercise: Practice reading - 'ramai' (crowded) = rah-meye, 'hijau' (green) = hee-jow, 'amboi' (wow) = am-boy."
+      },
+      {
+        "title": "Syllabification and Stress Rules",
+        "content": "Indonesian words are pronounced with equal stress on each syllable, unlike English which has stressed and unstressed syllables. Each syllable typically consists of consonant + vowel. Example: 'ma-ka-nan' (food) has 3 equal syllables. Most words are stressed on the second-to-last syllable. Cultural note: Indonesian pronunciation is very phonetic - words are pronounced exactly as they're spelled. Practice: Break down these words - 'pe-la-ja-ran' (lesson), 'ke-ciu-san' (disappointment), 'ber-san-ding-an' (side by side)."
       }
     ]
   },
   {
-    "title": "2. Greetings & Introductions",
+    "title": "Greetings and Introductions",
     "subs": [
       {
-        "title": "Formal greetings (Selamat pagi, siang, sore, malam)",
-        "content": "<p>Use Selamat pagi/siang/sore/malam according to time.</p>"
+        "title": "Formal Greetings (Selamat pagi, siang, sore, malam)",
+        "content": "Indonesian has time-specific greetings: Selamat pagi (Good morning) = suh-lah-mat pah-gee (used until 11 AM), Selamat siang (Good day) = suh-lah-mat see-ang (11 AM-3 PM), Selamat sore (Good afternoon) = suh-lah-mat so-reh (3 PM-7 PM), Selamat malam (Good evening/night) = suh-lah-mat mah-lam (after 7 PM). Cultural note: Indonesians are very time-conscious with greetings. Always use the appropriate greeting for the time of day in formal situations."
       },
       {
-        "title": "Informal greetings (Halo, Hai, Apa kabar?)",
-        "content": "<p>Casual greetings like Halo, Hai, Apa kabar?</p>"
+        "title": "Informal Greetings (Halo, Hai, Apa kabar?)",
+        "content": "Casual greetings include: Halo (Hello) = hah-lo, Hai (Hi) = high, Apa kabar? (How are you?) = ah-pah kah-bar. Responses to 'Apa kabar?': Baik (Good) = bah-eek, Baik-baik saja (I'm fine) = bah-eek bah-eek sah-jah, Lumayan (Not bad) = loo-mah-yan. Cultural note: Unlike English where 'How are you?' is often just a greeting, Indonesians may actually expect an answer about your wellbeing. Practice dialogue: A: 'Hai, apa kabar?' B: 'Baik, terima kasih. Dan kamu?' (Good, thank you. And you?)"
       },
       {
-        "title": "Introducing yourself (nama saya ...)",
-        "content": "<p>Say \"Nama saya [name]\" to introduce yourself.</p>"
+        "title": "Introducing Yourself (nama saya...)",
+        "content": "Basic self-introduction: Nama saya [name] (My name is...) = nah-mah sah-yah, Saya [name] (I am...) = sah-yah, Senang bertemu dengan Anda (Nice to meet you) = suh-nang ber-tuh-moo duh-ngan an-dah. Examples: 'Nama saya John' (My name is John), 'Saya dari Amerika' (I am from America). Cultural note: When introducing yourself, a slight bow or nod shows respect. Handshakes are common, but wait for the elder person to extend their hand first."
       },
       {
-        "title": "Asking someone’s name (Siapa nama Anda?)",
-        "content": "<p>Ask politely: \"Siapa nama Anda?\"</p>"
+        "title": "Asking Someone's Name (Siapa nama Anda?)",
+        "content": "To ask someone's name: Siapa nama Anda? (What is your name? - formal) = see-ah-pah nah-mah an-dah, Siapa namamu? (What is your name? - informal) = see-ah-pah nah-mah-moo. Responses: Nama saya... (My name is...), Nama saya Budi (My name is Budi). Cultural note: Use 'Anda' for formal situations and people you've just met. Use 'kamu' for friends and people your age. Practice: Create a dialogue where two people meet and exchange names formally and informally."
       },
       {
-        "title": "Farewells (sampai jumpa, dadah)",
-        "content": "<p>Common farewells: \"Sampai jumpa\" (See you), \"Dadah\" (Bye).</p>"
+        "title": "Farewell Expressions (sampai jumpa, dadah)",
+        "content": "Common farewells: Sampai jumpa (Goodbye/See you) = sam-pye joom-pah, Sampai nanti (See you later) = sam-pye nan-tee, Selamat tinggal (Goodbye - said by person leaving) = suh-lah-mat ting-gal, Selamat jalan (Goodbye - said to person leaving) = suh-lah-mat jah-lan, Dadah (Bye - informal) = dah-dah. Cultural note: 'Selamat tinggal' and 'Selamat jalan' are used in specific contexts - the person staying says 'Selamat jalan' to the person leaving, who responds 'Selamat tinggal'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers (0-100)",
+    "subs": [
+      {
+        "title": "Numbers 0-10",
+        "content": "Basic numbers: 0 = nol, 1 = satu, 2 = dua, 3 = tiga, 4 = empat, 5 = lima, 6 = enam, 7 = tujuh, 8 = delapan, 9 = sembilan, 10 = sepuluh. Pronunciation: satu (sah-too), dua (doo-ah), tiga (tee-gah), empat (um-pat), lima (lee-mah), enam (uh-nam), tujuh (too-jooh), delapan (duh-lah-pan), sembilan (sum-bee-lan), sepuluh (suh-poo-looh). Practice counting: satu, dua, tiga, empat, lima, enam, tujuh, delapan, sembilan, sepuluh."
+      },
+      {
+        "title": "Numbers 11-20",
+        "content": "Numbers 11-19 add 'belas' after the digit: 11 = sebelas, 12 = dua belas, 13 = tiga belas, 14 = empat belas, 15 = lima belas, 16 = enam belas, 17 = tujuh belas, 18 = delapan belas, 19 = sembilan belas, 20 = dua puluh. Pronunciation: sebelas (suh-buh-las), dua belas (doo-ah buh-las). Cultural note: Unlike English's unique words like 'eleven' and 'twelve', Indonesian is perfectly regular from 11 upward. Mini exercise: Practice saying your age using 'saya berumur [number] tahun' (I am [number] years old)."
+      },
+      {
+        "title": "Numbers 21-100",
+        "content": "For numbers 21-99, use [digit] puluh [digit]: 21 = dua puluh satu, 30 = tiga puluh, 42 = empat puluh dua, 55 = lima puluh lima, 68 = enam puluh delapan, 73 = tujuh puluh tiga, 89 = delapan puluh sembilan, 100 = seratus. Pattern: [tens] puluh [ones]. Examples: 25 = dua puluh lima (two tens five), 99 = sembilan puluh sembilan (nine tens nine). Practice: Say these numbers - 34, 47, 52, 66, 78, 83, 91, 100."
+      },
+      {
+        "title": "Ordinal Numbers (pertama, kedua...)",
+        "content": "Ordinal numbers indicate position: pertama (first) = per-tah-mah, kedua (second) = kuh-doo-ah, ketiga (third) = kuh-tee-gah, keempat (fourth) = kuh-um-pat, kelima (fifth) = kuh-lee-mah, keenam (sixth) = kuh-uh-nam, ketujuh (seventh) = kuh-too-jooh, kedelapan (eighth) = kuh-duh-lah-pan, kesembilan (ninth) = kuh-sum-bee-lan, kesepuluh (tenth) = kuh-suh-poo-looh. Pattern: ke- + number. Example: 'lantai pertama' (first floor), 'hari kedua' (second day)."
+      },
+      {
+        "title": "Saying Phone Numbers",
+        "content": "Phone numbers are read digit by digit: 0812-345-6789 = nol, delapan, satu, dua - tiga, empat, lima - enam, tujuh, delapan, sembilan. Cultural note: Indonesians often say 'nomor' before the number: 'Nomor telepon saya adalah...' (My phone number is...). Practice: Read these numbers - 0857-112-2334, 021-556677, 0813-990-0011. Useful phrases: 'Bisa saya minta nomor telepon Anda?' (Can I have your phone number?), 'Ini nomor telepon saya' (This is my phone number)."
+      }
+    ]
+  },
+  {
+    "title": "Days, Months and Time Expressions",
+    "subs": [
+      {
+        "title": "Days of the Week",
+        "content": "The seven days: Senin (Monday) = suh-neen, Selasa (Tuesday) = suh-lah-sah, Rabu (Wednesday) = rah-boo, Kamis (Thursday) = kah-mees, Jumat (Friday) = joo-mat, Sabtu (Saturday) = sab-too, Minggu (Sunday) = ming-goo. Cultural note: The week starts on Monday in Indonesia. Friday is prayer day for Muslims, so many businesses close for Friday prayers around noon. Example: 'Saya bekerja dari Senin sampai Jumat' (I work from Monday to Friday)."
+      },
+      {
+        "title": "Months of the Year",
+        "content": "Months are similar to English: Januari, Februari, Maret, April, Mei, Juni, Juli, Agustus, September, Oktober, November, Desember. Pronunciation: Januari (jah-noo-ah-ree), Februari (fe-broo-ah-ree), Maret (mah-ret), Agustus (ah-goos-toos). Cultural note: Indonesia doesn't have four distinct seasons like temperate countries. Instead, it has dry and rainy seasons. Practice: 'Bulan apa sekarang?' (What month is it now?), 'Sekarang bulan Juli' (It's July now)."
+      },
+      {
+        "title": "Seasons and Climate",
+        "content": "Indonesia has two main seasons: Musim hujan (Rainy season) = moo-seim hoo-jan (October-April), Musim kemarau (Dry season) = moo-seim kuh-mah-row (May-September). Climate terms: panas (hot) = pah-nas, dingin (cold) = ding-in, hujan (rainy) = hoo-jan, cerah (sunny) = cheh-rah. Cultural note: Being near the equator, Indonesia has consistent temperatures year-round (25-32°C). The main variation is rainfall. Example: 'Di Indonesia ada dua musim' (In Indonesia there are two seasons)."
+      },
+      {
+        "title": "Asking and Telling Time",
+        "content": "Basic time telling: Jam berapa? (What time is it?) = jam buh-rah-pah, Sekarang jam... (It is... o'clock) = suh-kah-rang jam. Examples: 'Sekarang jam tiga' (It's three o'clock), 'Sekarang jam setengah empat' (It's half past three, literally 'half four'), 'Sekarang jam sepuluh lewat lima belas' (It's ten fifteen). Important: Indonesians use 24-hour format in formal contexts. Practice: Ask and answer about different times using analog clock pictures."
+      },
+      {
+        "title": "Daily Time Expressions",
+        "content": "Common time words: sekarang (now) = suh-kah-rang, nanti (later) = nan-tee, besok (tomorrow) = buh-sok, kemarin (yesterday) = kuh-mah-reen, hari ini (today) = hah-ree ee-nee, lusa (day after tomorrow) = loo-sah. Cultural note: 'Jam karet' (rubber time) is a cultural concept where time is flexible and appointments may not start exactly on time. Example sentences: 'Saya pergi besok' (I go tomorrow), 'Dia datang kemarin' (He came yesterday)."
+      }
+    ]
+  },
+  {
+    "title": "Basic Pronouns and Sentence Building",
+    "subs": [
+      {
+        "title": "I, You, He/She (saya, kamu/anda, dia)",
+        "content": "Basic pronouns: Saya (I, formal) = sah-yah, Aku (I, informal) = ah-koo, Kamu (You, informal) = kah-moo, Anda (You, formal) = an-dah, Dia (He/She) = dee-ah. Cultural note: Use 'saya' and 'anda' in formal situations, with elders, or people you've just met. Use 'aku' and 'kamu' with close friends and family. Examples: 'Saya guru' (I am a teacher), 'Dia dokter' (He/She is a doctor)."
+      },
+      {
+        "title": "We, You (plural), They (kita, kami, kalian, mereka)",
+        "content": "Plural pronouns: Kita (We, inclusive - includes listener) = kee-tah, Kami (We, exclusive - excludes listener) = kah-mee, Kalian (You all) = kah-lee-an, Mereka (They) = muh-ray-kah. Important distinction: 'Kita' includes the person you're speaking to, 'kami' does not. Examples: 'Kita pergi bersama' (We go together - including you), 'Kami dari Indonesia' (We are from Indonesia - not including you), 'Mereka siswa' (They are students)."
+      },
+      {
+        "title": "Simple Positive Sentences",
+        "content": "Basic sentence structure: Subject + (adalah) + Noun/Adjective. Unlike English, Indonesian often omits 'is/am/are'. Examples: 'Saya siswa' (I [am] a student), 'Dia tinggi' (He [is] tall), 'Ini buku' (This [is] a book), 'Itu mobil' (That [is] a car). You can use 'adalah' for emphasis: 'Dia adalah guru' (He is a teacher). Practice: Create sentences about yourself and people you know using this structure."
+      },
+      {
+        "title": "Simple Negative Sentences",
+        "content": "To make negative sentences, use 'bukan' for nouns and 'tidak' for verbs/adjectives: 'Saya bukan guru' (I am not a teacher), 'Dia tidak tinggi' (He is not tall), 'Saya tidak makan' (I do not eat). Pronunciation: bukan (boo-kan), tidak (tee-dak). Important: 'Bukan' negates nouns, 'tidak' negates verbs and adjectives. Examples: 'Itu bukan rumah saya' (That is not my house), 'Saya tidak lapar' (I am not hungry). Practice: Change positive sentences to negative."
+      },
+      {
+        "title": "Simple Question Sentences",
+        "content": "Yes/no questions use 'Apakah' at the beginning or rising intonation: 'Apakah kamu siswa?' (Are you a student?), 'Kamu siswa?' (You student?) with rising tone. Information questions use question words: Apa (What), Siapa (Who), Di mana (Where), Kapan (When), Mengapa (Why), Bagaimana (How). Examples: 'Siapa nama Anda?' (What is your name?), 'Di mana rumah?' (Where is the house?). Practice: Create questions using each question word."
+      }
+    ]
+  },
+  {
+    "title": "Daily Expressions",
+    "subs": [
+      {
+        "title": "Thanking (terima kasih)",
+        "content": "Basic thanking: Terima kasih (Thank you) = tuh-ree-mah kah-seeh, Terima kasih banyak (Thank you very much) = tuh-ree-mah kah-seeh bah-nyak. Responses: Sama-sama (You're welcome) = sah-mah sah-mah, Kembali (Literally 'return', similar to 'you're welcome') = kum-bah-lee. Cultural note: Indonesians appreciate polite expressions. Saying 'terima kasih' frequently is encouraged. Example dialogue: A: 'Terima kasih atas bantuannya' (Thank you for your help). B: 'Sama-sama' (You're welcome)."
+      },
+      {
+        "title": "Requesting (tolong)",
+        "content": "Making requests: Tolong (Please/Help) = toh-long, Tolong... (Please...) = toh-long, Bisa tolong...? (Can you please...?) = bee-sah toh-long. Examples: 'Tolong buka pintu' (Please open the door), 'Bisa tolong ambil itu?' (Can you please take that?), 'Tolong saya!' (Help me!). Cultural note: Adding 'tolong' makes requests more polite. Practice: Make polite requests for different situations - asking for water, asking someone to wait, asking for directions."
+      },
+      {
+        "title": "Apologizing (maaf)",
+        "content": "Apologies: Maaf (Sorry) = mah-af, Maafkan saya (Forgive me) = mah-af-kan sah-yah, Saya minta maaf (I apologize) = sah-yah min-tah mah-af. Responses: Tidak apa-apa (It's okay) = tee-dak ah-pah ah-pah, Tidak masalah (No problem) = tee-dak mah-sah-lah. Cultural note: Indonesians value harmony, so apologizing quickly when you make a mistake is important. Example: 'Maaf, saya terlambat' (Sorry, I'm late), 'Tidak apa-apa' (It's okay)."
+      },
+      {
+        "title": "Responding to Requests",
+        "content": "Positive responses: Ya (Yes) = yah, Tentu (Certainly) = ten-too, Tentu saja (Of course) = ten-too sah-jah, Baiklah (Alright) = bah-eek-lah. Negative responses: Tidak (No) = tee-dak, Maaf, tidak bisa (Sorry, I can't) = mah-af tee-dak bee-sah. Cultural note: Indonesians often avoid direct refusal to maintain harmony. They might say 'nanti' (later) instead of a direct 'no'. Practice dialogues with requests and various responses."
+      },
+      {
+        "title": "Polite Markers (silakan, mohon)",
+        "content": "Polite expressions: Silakan (Please go ahead/Please do) = see-lah-kan, Mohon (Please - more formal) = moh-hon, Mari (Let's) = mah-ree. Usage: 'Silakan duduk' (Please have a seat), 'Silakan masuk' (Please come in), 'Mohon ditunggu' (Please wait), 'Mari makan' (Let's eat). Cultural note: 'Silakan' is used when inviting someone to do something, while 'tolong' is used when asking for help. Practice using these in hospitality situations."
+      }
+    ]
+  },
+  {
+    "title": "Family and Relationships",
+    "subs": [
+      {
+        "title": "Mother, Father, Sibling, Child",
+        "content": "Immediate family: ibu (mother) = ee-boo, bapak/ayah (father) = bah-pak/ah-yah, kakak (older sibling) = kah-kak, adik (younger sibling) = ah-deek, anak (child) = ah-nak. Examples: 'Ibu saya' (My mother), 'Bapak saya' (My father), 'Kakak laki-laki' (Older brother), 'Adik perempuan' (Younger sister). Cultural note: Indonesians often address older people as 'Ibu' or 'Bapak' out of respect, even if they're not related."
+      },
+      {
+        "title": "Extended Family",
+        "content": "Extended family: nenek (grandmother) = nuh-nek, kakek (grandfather) = kah-kek, paman (uncle) = pah-man, bibi (aunt) = bee-bee, sepupu (cousin) = suh-poo-poo, keponakan (nephew/niece) = kuh-poh-nah-kan. Examples: 'Nenek saya' (My grandmother), 'Paman dari ibu' (Uncle from mother's side). Cultural note: Family is very important in Indonesian culture. Large family gatherings are common, especially during holidays."
+      },
+      {
+        "title": "Spouse and Kinship Relations",
+        "content": "Marriage relations: suami (husband) = soo-ah-mee, istri (wife) = ees-tree, anak laki-laki (son) = ah-nak lah-kee lah-kee, anak perempuan (daughter) = ah-nak puh-room-poo-an, menantu (son/daughter-in-law) = muh-nan-too, mertua (parent-in-law) = mer-too-ah. Examples: 'Suami saya' (My husband), 'Istri saya' (My wife). Practice: Describe your family members using these terms."
+      },
+      {
+        "title": "Marital Status Expressions",
+        "content": "Marital status: sudah menikah (married) = soo-dah muh-nee-kah, belum menikah (not married yet) = buh-loom muh-nee-kah, janda (widow/divorced woman) = jan-dah, duda (widower/divorced man) = doo-dah. Questions: 'Apakah Anda sudah menikah?' (Are you married?), 'Sudah punya anak?' (Do you have children already?). Cultural note: It's common for Indonesians to ask about marital status, even when first meeting someone."
+      },
+      {
+        "title": "Simple Sentences About Family",
+        "content": "Practice describing family: 'Ini keluarga saya' (This is my family), 'Saya punya satu kakak dan satu adik' (I have one older sibling and one younger sibling), 'Ibu saya adalah guru' (My mother is a teacher), 'Keluarga saya tinggal di Jakarta' (My family lives in Jakarta). Mini exercise: Create a paragraph describing your family using the vocabulary learned. Include how many members, their relationships to you, and their professions if possible."
+      }
+    ]
+  },
+  {
+    "title": "Daily Routines",
+    "subs": [
+      {
+        "title": "Morning Routines",
+        "content": "Common morning activities: bangun (wake up) = bahng-oon, mandi (shower/bathe) = man-dee, gosok gigi (brush teeth) = goh-sok gee-gee, sarapan (have breakfast) = sah-rah-pan, berpakaian (get dressed) = ber-pah-kye-an. Examples: 'Saya bangun jam enam' (I wake up at six), 'Setelah bangun, saya mandi' (After waking up, I shower). Practice: Describe your morning routine in Indonesian using time expressions."
+      },
+      {
+        "title": "Going to School/Work",
+        "content": "Work/school routines: pergi ke sekolah (go to school) = per-gee kuh suh-ko-lah, pergi ke kantor (go to office) = per-gee kuh kan-tor, belajar (study) = buh-lah-jar, bekerja (work) = buh-ker-jah, pulang (return home) = poo-lang. Examples: 'Saya pergi ke sekolah jam tujuh' (I go to school at seven), 'Dia bekerja di bank' (He works at a bank). Cultural note: The school day typically runs from 7 AM to 1-2 PM in Indonesia."
+      },
+      {
+        "title": "Afternoon Activities",
+        "content": "Common afternoon activities: makan siang (have lunch) = mah-kan see-ang, tidur siang (take a nap) = tee-door see-ang, mengerjakan PR (do homework) = muh-nger-jah-kan peh-er, bermain (play) = ber-mine, bertemu teman (meet friends) = ber-tuh-moo tuh-man. Examples: 'Saya makan siang jam dua belas' (I have lunch at twelve), 'Setelah sekolah, saya mengerjakan PR' (After school, I do homework)."
+      },
+      {
+        "title": "Evening Activities",
+        "content": "Evening routines: makan malam (have dinner) = mah-kan mah-lam, menonton TV (watch TV) = muh-non-ton tee-vee, membaca (read) = mum-bah-chah, bersantai (relax) = ber-san-tye, tidur (sleep) = tee-door. Examples: 'Keluarga saya makan malam bersama' (My family eats dinner together), 'Saya tidur jam sepuluh' (I sleep at ten). Practice: Create sentences about what you typically do in the evening."
+      },
+      {
+        "title": "Writing a Simple Paragraph About Daily Routine",
+        "content": "Combine all elements to describe a full day: 'Saya bangun jam enam pagi. Setelah itu, saya mandi dan sarapan. Saya pergi ke sekolah jam tujuh. Saya belajar sampai jam dua. Setelah pulang, saya makan siang dan mengerjakan PR. Saya bermain dengan teman sore hari. Malamnya, saya makan malam dengan keluarga dan menonton TV. Saya tidur jam sepuluh malam.' Practice: Write your own daily routine paragraph using time markers and sequence words like 'setelah itu' (after that), 'kemudian' (then)."
+      }
+    ]
+  },
+  {
+    "title": "Food and Drinks",
+    "subs": [
+      {
+        "title": "Basic Foods",
+        "content": "Common Indonesian foods: nasi (rice) = nah-see, roti (bread) = roh-tee, ayam (chicken) = ah-yam, ikan (fish) = ee-kan, telur (egg) = tuh-loor, sayur (vegetables) = sah-yoor, buah (fruit) = boo-ah. Cultural note: Rice is the staple food in Indonesia. A meal isn't considered complete without rice. Examples: 'Saya makan nasi' (I eat rice), 'Ini ayam goreng' (This is fried chicken). Practice: Name foods you like using 'Saya suka...' (I like...)."
+      },
+      {
+        "title": "Basic Drinks",
+        "content": "Common beverages: air (water) = ah-eer, kopi (coffee) = koh-pee, teh (tea) = tay, susu (milk) = soo-soo, jus (juice) = joos, es (ice) = es. Examples: 'Saya minum air' (I drink water), 'Kopi panas' (Hot coffee), 'Teh manis' (Sweet tea). Cultural note: Indonesians often drink sweet tea and coffee. 'Kopi tubruk' is a traditional coffee where grounds are mixed directly with hot water. Practice: Order drinks in a café scenario."
+      },
+      {
+        "title": "Ordering at a Restaurant",
+        "content": "Restaurant phrases: 'Saya mau pesan...' (I would like to order...), 'Ada menu dalam bahasa Inggris?' (Is there an English menu?), 'Rekomendasi apa?' (What do you recommend?), 'Bisa minta bill?' (Can I have the bill?). Examples: 'Saya mau pesan nasi goreng' (I would like to order fried rice), 'Saya ingin minum teh' (I want to drink tea). Practice: Create a dialogue between a customer and waiter in a restaurant."
+      },
+      {
+        "title": "Liking/Disliking (suka/tidak suka)",
+        "content": "Expressing preferences: Suka (like) = soo-kah, Tidak suka (dislike) = tee-dak soo-kah, Sangat suka (really like) = sang-at soo-kah, Benci (hate) = ben-chee. Examples: 'Saya suka buah' (I like fruit), 'Saya tidak suka sayur' (I don't like vegetables), 'Dia sangat suka cokelat' (He really likes chocolate). Practice: Talk about foods you like and dislike, giving reasons if possible."
+      },
+      {
+        "title": "Asking the Price (berapa harganya?)",
+        "content": "Shopping for food: Berapa harganya? (How much is it?) = buh-rah-pah har-gah-nyah, Mahal (expensive) = mah-hal, Murah (cheap) = moo-rah, Bisa kurang? (Can it be less?) = bee-sah koo-rang. Examples: 'Berapa harga nasi goreng?' (How much is fried rice?), 'Ini terlalu mahal' (This is too expensive). Cultural note: Bargaining is common in traditional markets but not in supermarkets or restaurants. Practice: Create a market shopping dialogue with price negotiation."
+      }
+    ]
+  },
+  {
+    "title": "Colors and Shapes",
+    "subs": [
+      {
+        "title": "Basic Colors",
+        "content": "Common colors: merah (red) = muh-rah, biru (blue) = bee-roo, hijau (green) = hee-jow, kuning (yellow) = koo-ning, hitam (black) = hee-tam, putih (white) = poo-teeh, cokelat (brown) = cho-kuh-lat, ungu (purple) = oon-goo, oranye/jingga (orange) = oh-rahn-ye/jing-gah, abu-abu (gray) = ah-boo ah-boo. Examples: 'Mobil merah' (Red car), 'Baju biru' (Blue shirt). Practice: Identify colors of objects around you."
+      },
+      {
+        "title": "Light/Dark (terang/gelap)",
+        "content": "Color shades: terang (light/bright) = tuh-rang, gelap (dark) = guh-lap, muda (light/pale) = moo-dah, tua (dark) = too-ah. Examples: 'Biru muda' (Light blue), 'Hijau tua' (Dark green), 'Merah terang' (Bright red). Usage: Color + shade. Practice: Describe different shades using objects - 'lampu terang' (bright light), 'ruangan gelap' (dark room)."
+      },
+      {
+        "title": "Shapes",
+        "content": "Basic shapes: lingkaran (circle) = ling-kah-ran, segitiga (triangle) = suh-gee-tee-gah, kotak (square) = koh-tak, persegi panjang (rectangle) = per-suh-gee pan-jang, bintang (star) = bin-tang, hati (heart) = hah-tee, oval (oval) = oh-val. Examples: 'Meja bundar' (Round table), 'Jendela persegi' (Square window). Practice: Identify shapes in your environment and describe them."
+      },
+      {
+        "title": "Describing Objects with Colors",
+        "content": "Pattern: Object + color. Examples: 'mobil merah' (red car), 'rumah putih' (white house), 'buku hijau' (green book), 'kucing hitam' (black cat). You can add size: 'mobil merah besar' (big red car). Practice: Describe 5 objects in your room using color adjectives. Cultural note: In Indonesian, adjectives come after nouns, unlike English where they typically come before."
+      },
+      {
+        "title": "Asking/Answering About Favorite Color",
+        "content": "Questions: 'Apa warna favorit Anda?' (What is your favorite color?), 'Warna apa yang Anda suka?' (What color do you like?). Answers: 'Warna favorit saya adalah...' (My favorite color is...), 'Saya suka warna...' (I like the color...). Examples: 'Warna favorit saya biru' (My favorite color is blue), 'Saya suka warna hijau dan kuning' (I like green and yellow). Practice: Ask and answer about favorite colors with a partner."
+      }
+    ]
+  },
+  {
+    "title": "Home and Furniture",
+    "subs": [
+      {
+        "title": "Parts of the House",
+        "content": "House areas: kamar tidur (bedroom) = kah-mar tee-door, kamar mandi (bathroom) = kah-mar man-dee, dapur (kitchen) = dah-poor, ruang tamu (living room) = roo-ang tah-moo, ruang makan (dining room) = roo-ang mah-kan, garasi (garage) = gah-rah-see, halaman (yard) = hah-lah-man. Examples: 'Ini rumah saya' (This is my house), 'Dapur ada di belakang' (The kitchen is in the back). Practice: Describe the layout of your house."
+      },
+      {
+        "title": "Furniture",
+        "content": "Common furniture: meja (table) = muh-jah, kursi (chair) = koor-see, tempat tidur (bed) = tum-pat tee-door, lemari (cabinet/wardrobe) = luh-mah-ree, sofa (sofa) = so-fah, rak buku (bookshelf) = rak boo-koo. Examples: 'Meja makan' (Dining table), 'Kursi kantor' (Office chair). Practice: Name furniture in different rooms - 'Di kamar tidur ada tempat tidur dan lemari' (In the bedroom there is a bed and wardrobe)."
+      },
+      {
+        "title": "Household Appliances",
+        "content": "Common appliances: kulkas (refrigerator) = kool-kas, kompor (stove) = kom-por, televisi (television) = tuh-luh-vee-see, mesin cuci (washing machine) = muh-seen choo-chee, AC (air conditioner) = ah-cheh, kipas angin (fan) = kee-pas ang-in. Examples: 'Kulkas ada di dapur' (The refrigerator is in the kitchen), 'Televisi di ruang tamu' (The TV is in the living room). Practice: Describe what appliances you have and where they are located."
+      },
+      {
+        "title": "Asking Questions About the House",
+        "content": "Question patterns: 'Di mana...?' (Where is...?), 'Ada berapa...?' (How many... are there?), 'Apakah ada...?' (Is there...?). Examples: 'Di mana kamar mandi?' (Where is the bathroom?), 'Ada berapa kamar tidur?' (How many bedrooms are there?), 'Apakah ada dapur?' (Is there a kitchen?). Practice: Create questions about different parts of a house and answer them."
+      },
+      {
+        "title": "Describing Your Own House",
+        "content": "Combine vocabulary to describe your home: 'Rumah saya mempunyai tiga kamar tidur dan dua kamar mandi. Ada dapur, ruang tamu, dan ruang makan. Di ruang tamu ada sofa dan televisi. Di kamar tidur saya ada tempat tidur dan meja belajar.' (My house has three bedrooms and two bathrooms. There is a kitchen, living room, and dining room. In the living room there is a sofa and TV. In my bedroom there is a bed and study table.) Practice: Write or speak a detailed description of your house."
+      }
+    ]
+  },
+  {
+    "title": "School and Education",
+    "subs": [
+      {
+        "title": "Classroom Objects",
+        "content": "School supplies: buku (book) = boo-koo, pensil (pencil) = pen-seel, pulpen (pen) = pool-pen, penghapus (eraser) = puhng-hah-poos, penggaris (ruler) = puhng-gah-rees, tas (bag) = tas, papan tulis (blackboard) = pah-pan too-lees. Examples: 'Saya punya buku' (I have a book), 'Pensil saya hilang' (My pencil is lost). Practice: Name objects in your pencil case or backpack in Indonesian."
+      },
+      {
+        "title": "School Parts",
+        "content": "School areas: kelas (classroom) = kuh-las, perpustakaan (library) = per-poos-tah-kah-an, laboratorium (laboratory) = lah-bo-rah-to-ree-um, kantor guru (teacher's office) = kan-tor goo-roo, lapangan (field) = lah-pang-an, aula (hall) = ow-lah. Examples: 'Saya belajar di kelas' (I study in the classroom), 'Buku ada di perpustakaan' (Books are in the library). Practice: Describe different areas of your school and what happens there."
+      },
+      {
+        "title": "Subjects",
+        "content": "School subjects: matematika (mathematics) = mah-tay-mah-tee-kah, bahasa Indonesia (Indonesian language) = bah-hah-sah in-doh-nee-see-ah, bahasa Inggris (English) = bah-hah-sah ing-gris, ilmu pengetahuan alam/science (science) = eel-moo puh-nguh-tah-hoo-an ah-lam, sejarah (history) = suh-jah-rah, seni (arts) = suh-nee, olahraga (sports) = oh-lah-rah-gah. Examples: 'Saya suka matematika' (I like mathematics), 'Pelajaran bahasa Inggris sulit' (English lesson is difficult)."
+      },
+      {
+        "title": "Teacher/Student Dialogues",
+        "content": "Classroom conversations: 'Selamat pagi, Bu/Pak' (Good morning, Ma'am/Sir), 'Saya tidak mengerti' (I don't understand), 'Bisa diulangi?' (Can you repeat?), 'Apa PR untuk besok?' (What's the homework for tomorrow?). Teacher phrases: 'Dengarkan baik-baik' (Listen carefully), 'Bukalah buku halaman...' (Open your book to page...). Practice: Create a classroom dialogue between teacher and students."
+      },
+      {
+        "title": "Describing Your Own School",
+        "content": "Describe your school: 'Saya sekolah di [school name]. Sekolah saya besar. Ada dua puluh kelas. Ada perpustakaan dan laboratorium. Saya belajar bahasa Indonesia, matematika, dan ilmu pengetahuan. Guru-guru saya baik.' (I study at [school name]. My school is big. There are twenty classrooms. There is a library and laboratory. I study Indonesian, mathematics, and science. My teachers are good.) Practice: Write a paragraph describing your school."
+      }
+    ]
+  },
+  {
+    "title": "Professions",
+    "subs": [
+      {
+        "title": "Common Professions",
+        "content": "Common jobs: guru (teacher) = goo-roo, dokter (doctor) = dok-ter, perawat (nurse) = puh-rah-wat, polisi (police officer) = poh-lee-see, petani (farmer) = puh-tah-nee, pegawai (employee) = puh-gah-way, supir (driver) = soo-peer, koki (chef) = koh-kee. Examples: 'Ibu saya guru' (My mother is a teacher), 'Ayah saya dokter' (My father is a doctor). Practice: Name professions of people you know."
+      },
+      {
+        "title": "Workplaces",
+        "content": "Work places: kantor (office) = kan-tor, rumah sakit (hospital) = roo-mah sah-keet, sekolah (school) = suh-ko-lah, pabrik (factory) = pah-breek, restoran (restaurant) = res-to-ran, toko (shop) = toh-ko, pasar (market) = pah-sar. Examples: 'Dia bekerja di kantor' (He works in an office), 'Ibu bekerja di rumah sakit' (Mother works in a hospital). Practice: Match professions with their typical workplaces."
+      },
+      {
+        "title": "\"Saya bekerja sebagai...\" Structure",
+        "content": "Talking about your job: 'Saya bekerja sebagai...' (I work as...), 'Pekerjaan saya adalah...' (My job is...), 'Saya seorang...' (I am a...). Examples: 'Saya bekerja sebagai guru' (I work as a teacher), 'Pekerjaan saya adalah dokter' (My job is doctor), 'Saya seorang perawat' (I am a nurse). Practice: Use these structures to talk about different professions."
+      },
+      {
+        "title": "Job Questions",
+        "content": "Asking about work: 'Apa pekerjaan Anda?' (What is your job?), 'Di mana Anda bekerja?' (Where do you work?), 'Sudah lama bekerja?' (Have you been working long?). Answers: 'Saya [profession]' (I am a [profession]), 'Saya bekerja di [place]' (I work at [place]). Examples: 'Apa pekerjaan ayah Anda?' (What is your father's job?), 'Dia bekerja di bank' (He works at a bank). Practice: Ask and answer questions about jobs."
+      },
+      {
+        "title": "Talking About Your Dream Job",
+        "content": "Future aspirations: 'Saya ingin menjadi...' (I want to be/become...), 'Cita-cita saya adalah...' (My ambition is...), 'Ketika besar, saya mau jadi...' (When I grow up, I want to be...). Examples: 'Saya ingin menjadi dokter' (I want to become a doctor), 'Cita-cita saya adalah guru' (My ambition is teacher). Practice: Talk about what job you would like to have in the future and why."
+      }
+    ]
+  },
+  {
+    "title": "Hobbies and Interests",
+    "subs": [
+      {
+        "title": "Sports",
+        "content": "Popular sports: sepak bola (soccer) = suh-pak boh-lah, bulu tangkis (badminton) = boo-loo tang-kees, basket (basketball) = bas-ket, renang (swimming) = ruh-nang, lari (running) = lah-ree, bersepeda (cycling) = ber-suh-puh-dah. Examples: 'Saya suka bermain sepak bola' (I like playing soccer), 'Dia pandai bulu tangkis' (He is good at badminton). Cultural note: Badminton is extremely popular in Indonesia, and Indonesia has produced many world champions."
+      },
+      {
+        "title": "Art Activities",
+        "content": "Artistic hobbies: musik (music) = moo-seek, menyanyi (singing) = muh-nyah-nyee, menari (dancing) = muh-nah-ree, menggambar (drawing) = muhng-gam-bar, melukis (painting) = muh-loo-kees, fotografi (photography) = fo-to-grah-fee. Examples: 'Saya bisa bermain gitar' (I can play guitar), 'Dia suka menari' (She likes dancing). Practice: Talk about which art activities you enjoy or are good at."
+      },
+      {
+        "title": "Book/Movie Hobbies",
+        "content": "Entertainment hobbies: membaca (reading) = mum-bah-chah, menonton film (watching movies) = muh-non-ton feelm, menulis (writing) = muh-noo-lees. Examples: 'Saya suka membaca buku' (I like reading books), 'Film favorit saya adalah...' (My favorite movie is...). Practice: Talk about your favorite book or movie and why you like it."
+      },
+      {
+        "title": "Free Time Activities",
+        "content": "Leisure activities: berjalan-jalan (walking around) = ber-jah-lan jah-lan, berkebun (gardening) = ber-kuh-boon, memasak (cooking) = muh-mah-sak, berbelanja (shopping) = ber-buh-lan-jah, bermain game (playing games) = ber-mine gaym. Examples: 'Pada waktu luang, saya suka memasak' (In my free time, I like cooking), 'Kami sering berjalan-jalan di mall' (We often walk around in the mall)."
+      },
+      {
+        "title": "Talking About Your Hobbies with \"Saya suka...\"",
+        "content": "Describing hobbies: 'Saya suka...' (I like...), 'Hobi saya adalah...' (My hobby is...), 'Pada waktu senggang, saya biasanya...' (In my spare time, I usually...). Examples: 'Saya suka membaca dan menonton film' (I like reading and watching movies), 'Hobi saya bermain sepak bola' (My hobby is playing soccer). Practice: Create a paragraph describing your hobbies and interests using these structures."
+      }
+    ]
+  },
+  {
+    "title": "City and Transportation",
+    "subs": [
+      {
+        "title": "Means of Transport",
+        "content": "Transportation: mobil (car) = moh-beel, bus (bus) = boos, kereta (train) = kuh-reh-tah, sepeda (bicycle) = suh-puh-dah, motor (motorcycle) = moh-tor, taksi (taxi) = tak-see, pesawat (airplane) = puh-sah-wat. Examples: 'Saya pergi naik mobil' (I go by car), 'Dia naik bus ke sekolah' (He takes the bus to school). Cultural note: Motorcycles are extremely common in Indonesia due to traffic congestion."
+      },
+      {
+        "title": "Asking for Directions (Di mana...?)",
+        "content": "Direction questions: 'Di mana...?' (Where is...?), 'Bagaimana cara pergi ke...?' (How do I get to...?), 'Jauhkah dari sini?' (Is it far from here?). Examples: 'Di mana stasiun kereta?' (Where is the train station?), 'Bagaimana cara pergi ke museum?' (How do I get to the museum?). Practice: Ask for directions to common places in a city."
+      },
+      {
+        "title": "Directions (kanan, kiri, lurus)",
+        "content": "Basic directions: kanan (right) = kah-nan, kiri (left) = kee-ree, lurus (straight) = loo-roos, belok (turn) = buh-lok, putar balik (turn around) = poo-tar bah-leek, seberang (across) = suh-buh-rang. Examples: 'Belok kiri' (Turn left), 'Jalan lurus' (Go straight), 'Di sebelah kanan' (On the right side). Practice: Give and follow simple directions using a map."
+      },
+      {
+        "title": "Buying Tickets",
+        "content": "Ticket phrases: 'Saya mau beli tiket' (I want to buy a ticket), 'Berapa harga tiket ke...?' (How much is a ticket to...?), 'Tiket sekali jalan' (One-way ticket), 'Tiket pulang pergi' (Round-trip ticket). Examples: 'Saya mau beli tiket ke Jakarta' (I want to buy a ticket to Jakarta), 'Tiket pulang pergi berapa?' (How much is a round-trip ticket?). Practice: Create a dialogue for buying bus or train tickets."
+      },
+      {
+        "title": "Places in the City",
+        "content": "City locations: pasar (market) = pah-sar, toko (shop) = toh-ko, restoran (restaurant) = res-to-ran, bank (bank) = bang, rumah sakit (hospital) = roo-mah sah-keet, stasiun (station) = stah-see-oon, bandara (airport) = ban-dah-rah, mall (mall) = mol. Examples: 'Saya pergi ke pasar' (I go to the market), 'Restoran itu dekat bank' (That restaurant is near the bank). Practice: Describe what you can do at different city locations."
+      }
+    ]
+  },
+  {
+    "title": "Weather",
+    "subs": [
+      {
+        "title": "Sunny, Rainy, Windy",
+        "content": "Weather conditions: cerah (sunny) = cheh-rah, hujan (rainy) = hoo-jan, mendung (cloudy) = muhn-doong, berangin (windy) = buh-rang-in, panas (hot) = pah-nas, dingin (cold) = ding-in. Examples: 'Hari ini cerah' (Today is sunny), 'Besok mungkin hujan' (Tomorrow it might rain). Practice: Describe today's weather using these terms."
+      },
+      {
+        "title": "\"Hari ini cuacanya...\" Structure",
+        "content": "Describing weather: 'Hari ini cuacanya...' (Today the weather is...), 'Cuaca hari ini...' (Today's weather...). Examples: 'Hari ini cuacanya panas' (Today the weather is hot), 'Cuaca hari ini mendung' (Today's weather is cloudy). You can add temperature: 'Suhunya tiga puluh derajat' (The temperature is thirty degrees). Practice: Give daily weather reports using this structure."
+      },
+      {
+        "title": "Asking About Weather Forecast",
+        "content": "Weather questions: 'Bagaimana cuaca hari ini?' (How is the weather today?), 'Apakah besok akan hujan?' (Will it rain tomorrow?), 'Berapa suhunya?' (What is the temperature?). Answers: 'Mungkin hujan' (It might rain), 'Cuaca akan cerah' (The weather will be sunny). Practice: Ask and answer questions about weather forecasts for different days."
+      },
+      {
+        "title": "Types of Climate",
+        "content": "Climate terms: tropis (tropical) = tro-pees, panas (hot) = pah-nas, dingin (cold) = ding-in, lembab (humid) = lum-bab, kering (dry) = kuh-ring. Examples: 'Indonesia beriklim tropis' (Indonesia has a tropical climate), 'Di gunung cuacanya dingin' (In the mountains the weather is cold). Cultural note: Indonesia's tropical climate means it's warm year-round with high humidity."
+      },
+      {
+        "title": "Talking About Your Favorite Weather",
+        "content": "Weather preferences: 'Saya suka cuaca...' (I like... weather), 'Saya tidak suka ketika...' (I don't like when...), 'Cuaca favorit saya adalah...' (My favorite weather is...). Examples: 'Saya suka cuaca cerah' (I like sunny weather), 'Saya tidak suka ketika hujan' (I don't like when it rains). Practice: Discuss what weather conditions you prefer and why."
+      }
+    ]
+  },
+  {
+    "title": "Health and Basic Expressions",
+    "subs": [
+      {
+        "title": "Body Parts",
+        "content": "Basic body parts: kepala (head) = kuh-pah-lah, tangan (hand/arm) = tang-an, kaki (foot/leg) = kah-kee, mata (eye) = mah-tah, hidung (nose) = hee-doong, mulut (mouth) = moo-loot, telinga (ear) = tuh-ling-ah, perut (stomach) = puh-root. Examples: 'Saya sakit kepala' (I have a headache), 'Tangan saya sakit' (My hand hurts). Practice: Point to different body parts and name them in Indonesian."
+      },
+      {
+        "title": "Common Ailments",
+        "content": "Health problems: sakit (sick/pain) = sah-keet, demam (fever) = duh-mam, batuk (cough) = bah-took, pilek (cold/runny nose) = pee-lek, pusing (dizzy) = poo-sing, mual (nauseous) = moo-al. Examples: 'Saya sakit perut' (I have a stomachache), 'Dia demam' (He has a fever). Practice: Describe common illnesses using 'saya' + health problem."
+      },
+      {
+        "title": "Expressions for Going to the Doctor",
+        "content": "Doctor visit phrases: 'Saya tidak enak badan' (I don't feel well), 'Dokter, saya sakit...' (Doctor, I have...), 'Sejak kapan?' (Since when?), 'Apa obatnya?' (What is the medicine?). Doctor questions: 'Di mana sakit?' (Where does it hurt?), 'Sudah berapa lama?' (How long has it been?). Practice: Create a doctor-patient dialogue."
+      },
+      {
+        "title": "Asking for Medicine",
+        "content": "Pharmacy phrases: 'Saya perlu obat untuk...' (I need medicine for...), 'Apa obat untuk demam?' (What medicine for fever?), 'Ini resepnya' (Here is the prescription), 'Berapa dosisnya?' (What is the dosage?). Examples: 'Saya perlu obat batuk' (I need cough medicine), 'Obat untuk sakit kepala' (Medicine for headache). Practice: Role-play buying medicine at a pharmacy."
+      },
+      {
+        "title": "Wishing Good Health",
+        "content": "Health wishes: 'Semoga cepat sembuh' (Get well soon) = suh-moh-gah chuh-pat sum-booh, 'Jaga kesehatan' (Take care of your health) = jah-gah kuh-say-hat-an, 'Beristirahatlah yang cukup' (Get enough rest). Responses: 'Terima kasih' (Thank you), 'Saya akan berusaha' (I will try). Cultural note: Indonesians often visit sick friends and family members in hospital as a sign of care and support."
+      }
+    ]
+  },
+  {
+    "title": "Shopping",
+    "subs": [
+      {
+        "title": "Market Conversations",
+        "content": "Market phrases: 'Berapa harga ini?' (How much is this?), 'Bisa kurang?' (Can it be less?), 'Boleh saya lihat?' (May I see?), 'Ini terlalu mahal' (This is too expensive), 'Saya akan ambil ini' (I'll take this). Vendor phrases: 'Ini barang bagus' (This is good quality), 'Harga khusus untuk Anda' (Special price for you). Practice: Create a market bargaining dialogue."
+      },
+      {
+        "title": "Asking the Price and Requesting Discount",
+        "content": "Price negotiation: 'Berapa harganya?' (How much is it?), 'Bisa diskon?' (Can I get a discount?), 'Kalau beli dua?' (If I buy two?), 'Harga pasnya berapa?' (What's your best price?). Examples: 'Ini berapa?' (How much is this?), 'Bisa lima puluh ribu?' (Can it be fifty thousand?). Cultural note: Bargaining is expected in traditional markets but not in supermarkets or malls."
+      },
+      {
+        "title": "Currency (rupiah)",
+        "content": "Indonesian currency: rupiah (Indonesian currency) = roo-pee-ah, seribu (one thousand) = suh-ree-boo, lima ribu (five thousand) = lee-mah ree-boo, sepuluh ribu (ten thousand) = suh-poo-looh ree-boo, seratus ribu (one hundred thousand) = suh-rah-toos ree-boo. Examples: 'Harganya dua puluh ribu rupiah' (The price is twenty thousand rupiah). Practice: Say different prices in Indonesian currency."
+      },
+      {
+        "title": "Expressions for Buying",
+        "content": "Shopping phrases: 'Saya mau beli...' (I want to buy...), 'Saya cari...' (I'm looking for...), 'Ada yang lain?' (Is there another one?), 'Saya hanya lihat-lihat' (I'm just looking). Examples: 'Saya mau beli baju ini' (I want to buy this shirt), 'Saya cari hadiah untuk ibu' (I'm looking for a gift for mother). Practice: Create sentences for different shopping scenarios."
+      },
+      {
+        "title": "Payment Methods",
+        "content": "Payment terms: tunai (cash) = too-nye, kartu kredit (credit card) = kar-too kre-deet, kartu debit (debit card) = kar-too de-beet, transfer (transfer) = trans-fer, dompet digital (digital wallet) = dom-pet dee-jee-tal. Examples: 'Saya bayar tunai' (I pay cash), 'Bisa pakai kartu kredit?' (Can I use credit card?). Practice: Discuss different payment methods you use when shopping."
+      }
+    ]
+  },
+  {
+    "title": "Adverbs of Time",
+    "subs": [
+      {
+        "title": "Today, Yesterday, Tomorrow",
+        "content": "Basic time adverbs: hari ini (today) = hah-ree ee-nee, kemarin (yesterday) = kuh-mah-reen, besok (tomorrow) = buh-sok, lusa (day after tomorrow) = loo-sah, kemarin dulu (day before yesterday) = kuh-mah-reen doo-loo. Examples: 'Saya pergi hari ini' (I go today), 'Dia datang kemarin' (He came yesterday). Practice: Use these adverbs in sentences about your activities."
+      },
+      {
+        "title": "Weekly Expressions",
+        "content": "Week-related terms: minggu ini (this week) = ming-goo ee-nee, minggu lalu (last week) = ming-goo lah-loo, minggu depan (next week) = ming-goo duh-pan, akhir pekan (weekend) = ah-keer puh-kan. Examples: 'Saya sibuk minggu ini' (I am busy this week), 'Minggu depan saya libur' (Next week I have holiday). Practice: Talk about your plans for different weeks."
+      },
+      {
+        "title": "Times of the Day",
+        "content": "Day parts: pagi (morning) = pah-gee, siang (daytime/noon) = see-ang, sore (afternoon) = so-reh, malam (evening/night) = mah-lam, tengah malam (midnight) = tuhng-ah mah-lam. Examples: 'Saya bekerja di pagi hari' (I work in the morning), 'Kami makan malam bersama' (We eat dinner together). Practice: Describe what you typically do at different times of day."
+      },
+      {
+        "title": "Frequency Adverbs",
+        "content": "Frequency terms: sering (often) = suh-ring, jarang (rarely) = jah-rang, selalu (always) = suh-lah-loo, biasanya (usually) = bee-ah-sah-nyah, kadang-kadang (sometimes) = kah-dang kah-dang, tidak pernah (never) = tee-dak puh-rnah. Examples: 'Saya sering pergi ke pasar' (I often go to the market), 'Dia tidak pernah terlambat' (He is never late). Practice: Use frequency adverbs to describe your habits."
+      },
+      {
+        "title": "Building Sentences with Time",
+        "content": "Combine time elements: Subject + Time + Verb + Object. Examples: 'Saya besok pergi ke Jakarta' (I go to Jakarta tomorrow), 'Dia kemarin membeli buku' (He bought a book yesterday), 'Mereka biasanya makan siang jam dua belas' (They usually eat lunch at twelve). Practice: Create sentences using different time adverbs and frequency words."
+      }
+    ]
+  },
+  {
+    "title": "Simple Storytelling",
+    "subs": [
+      {
+        "title": "Talking About Daily Events",
+        "content": "Narrating daily life: Use simple past tense for completed actions. Examples: 'Kemarin saya pergi ke pasar' (Yesterday I went to the market), 'Saya membeli buah dan sayur' (I bought fruit and vegetables), 'Lalu saya pulang ke rumah' (Then I returned home). Practice: Describe what you did yesterday from morning to night."
+      },
+      {
+        "title": "Activities Done Yesterday",
+        "content": "Past activities: Use time markers like 'kemarin' (yesterday), 'pagi tadi' (this morning), 'tadi siang' (this afternoon). Examples: 'Kemarin pagi saya bangun jam enam' (Yesterday morning I woke up at six), 'Saya sarapan roti dan kopi' (I ate bread and coffee for breakfast), 'Lalu saya pergi bekerja' (Then I went to work). Practice: Write a short paragraph about your activities yesterday."
+      },
+      {
+        "title": "Activities to Do Tomorrow",
+        "content": "Future plans: Use 'besok' (tomorrow) or 'akan' (will). Examples: 'Besok saya akan pergi ke mall' (Tomorrow I will go to the mall), 'Saya mau membeli baju baru' (I want to buy new clothes), 'Setelah itu, saya akan menonton film' (After that, I will watch a movie). Practice: Talk about your plans for tomorrow using future time expressions."
+      },
+      {
+        "title": "Connecting Sentences with \"dan\"",
+        "content": "Using conjunctions: 'dan' (and) = dan, 'lalu' (then) = lah-loo, 'setelah itu' (after that) = suh-tuh-lah ee-too, 'karena' (because) = kuh-rah-nah. Examples: 'Saya bangun pagi dan mandi' (I wake up early and shower), 'Setelah sarapan, lalu saya pergi ke sekolah' (After breakfast, then I go to school). Practice: Connect simple sentences to create longer narratives about your daily routine."
+      },
+      {
+        "title": "Writing a Short Paragraph",
+        "content": "Combine all elements: Write a coherent paragraph about a recent experience. Example: 'Kemarin saya pergi ke rumah teman. Saya naik bus. Di rumah teman, kami menonton film dan makan pizza. Filmnya sangat menarik. Saya pulang jam sembilan malam. Saya senang sekali.' (Yesterday I went to my friend's house. I took the bus. At my friend's house, we watched a movie and ate pizza. The movie was very interesting. I returned home at nine in the evening. I was very happy.) Practice: Write your own short story about a recent experience."
       }
     ]
   }
