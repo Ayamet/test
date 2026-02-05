@@ -1,0 +1,167 @@
+{
+  "level": "A1",
+  "chapter": "Greetings & Introductions",
+  "chapterNumber": 1,
+  "units": [
+    {
+      "id": "a1-01-greetings-basic",
+      "lesson": 1,
+      "title": "Basic Greetings",
+      "goal": "Say hello and greet people at different times of day in formal and casual Indonesian.",
+
+      "vocabulary": [
+        { "word": "selamat pagi", "meaning": "good morning", "note": "≈ 04.00–10.00" },
+        { "word": "selamat siang", "meaning": "good afternoon", "note": "≈ 10.00–15.00" },
+        { "word": "selamat sore", "meaning": "late afternoon", "note": "≈ 15.00–18.00" },
+        { "word": "selamat malam", "meaning": "evening / night", "note": "after ≈ 18.00" },
+        { "word": "halo / hallo", "meaning": "hello", "note": "neutral" },
+        { "word": "hai", "meaning": "hi", "note": "casual" },
+        { "word": "pagi / siang / sore / malam", "meaning": "casual greetings", "note": "without selamat" }
+      ],
+
+      "examples": {
+        "formal": [
+          {
+            "id": "f1",
+            "text": "Selamat pagi, Pak.",
+            "translation": "Good morning, Sir."
+          },
+          {
+            "id": "f2",
+            "text": "Selamat sore, Bu Sari.",
+            "translation": "Good afternoon, Ms. Sari."
+          }
+        ],
+        "gaul": [
+          {
+            "id": "g1",
+            "text": "Pagi!",
+            "translation": "Morning!"
+          },
+          {
+            "id": "g2",
+            "text": "Sore, bro!",
+            "translation": "Afternoon, bro!"
+          }
+        ]
+      },
+
+      "grammar": {
+        "title": "Forms of address & intonation",
+        "explanation": [
+          "Pak (Bapak) and Bu (Ibu) are polite forms of address.",
+          "Pak/Bu can be followed by a name: Pak Andi, Bu Rina.",
+          "Indonesian greetings do not require a verb like 'to be'.",
+          "Rising intonation makes greetings sound friendly."
+        ]
+      },
+
+      "pronunciation": {
+        "notes": [
+          "In casual speech, selamat is often dropped.",
+          "Short greetings like pagi or malam are common among friends."
+        ],
+        "tts": true,
+        "youtube": null
+      },
+
+      "practice": [
+        {
+          "type": "translate",
+          "prompt": "Good evening, Ma’am.",
+          "answer": "Selamat malam, Bu."
+        },
+        {
+          "type": "translate",
+          "prompt": "Hi! Good morning!",
+          "answer": "Hai! Pagi!"
+        }
+      ],
+
+      "completion": {
+        "type": "manual_or_practice",
+        "required": 1
+      }
+    },
+
+    {
+      "id": "a1-02-asking-how-are-you",
+      "lesson": 2,
+      "title": "Asking “How are you?”",
+      "goal": "Ask and answer “How are you?” in formal, neutral, and casual Indonesian.",
+
+      "vocabulary": [
+        { "word": "kabar", "meaning": "news / condition" },
+        { "word": "bagaimana", "meaning": "how (formal)" },
+        { "word": "gimana", "meaning": "how (casual)" },
+        { "word": "baik", "meaning": "good / fine" },
+        { "word": "lumayan", "meaning": "so-so / not bad" },
+        { "word": "capek", "meaning": "tired" },
+        { "word": "lagi", "meaning": "currently (spoken Indonesian)" }
+      ],
+
+      "examples": {
+        "formal": [
+          {
+            "id": "f1",
+            "text": "Bagaimana kabar Anda?",
+            "translation": "How are you?"
+          },
+          {
+            "id": "f2",
+            "text": "Kabar saya baik, terima kasih.",
+            "translation": "I’m fine, thank you."
+          }
+        ],
+        "gaul": [
+          {
+            "id": "g1",
+            "text": "Gimana kabarnya?",
+            "translation": "How’s it going?"
+          },
+          {
+            "id": "g2",
+            "text": "Lumayan, capek banget.",
+            "translation": "Not bad, very tired."
+          }
+        ]
+      },
+
+      "grammar": {
+        "title": "bagaimana → gimana",
+        "explanation": [
+          "Bagaimana is the formal word for 'how'.",
+          "In casual speech, bagaimana is reduced to gimana.",
+          "Parts of the sentence can be dropped in conversation: Gimana?"
+        ]
+      },
+
+      "pronunciation": {
+        "notes": [
+          "Stress usually falls naturally; focus on clear vowels.",
+          "Capek banget uses banget as a strong intensifier."
+        ],
+        "tts": true,
+        "youtube": null
+      },
+
+      "practice": [
+        {
+          "type": "translate",
+          "prompt": "I’m very tired.",
+          "answer": "Saya capek sekali. / Capek banget."
+        },
+        {
+          "type": "respond",
+          "prompt": "Gimana kabarnya?",
+          "answer": "Baik-baik aja kok."
+        }
+      ],
+
+      "completion": {
+        "type": "manual_or_practice",
+        "required": 1
+      }
+    }
+  ]
+}
